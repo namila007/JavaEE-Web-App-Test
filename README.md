@@ -17,21 +17,24 @@ Trying JavaEE Web App with servelets
 #### 4. Go to Project Setting (`ALT+Ctrl+Shift+S`)
 ![screenshot_4](https://user-images.githubusercontent.com/18147085/35695159-b9c1a076-07a9-11e8-8247-bdc9105eff5e.jpg)
 
-#### 5.Add Tomcat Library and tick `Export`
+#### 5.Go to `Module` tab,select module folder, then click on Dependencies tab.
+![screenshot_14](https://user-images.githubusercontent.com/18147085/35747738-62e858a8-0871-11e8-9108-3aebf66ff9d4.jpg)
+
+#### 6.  Add Tomcat Library and tick `Export`
 ![screenshot_6](https://user-images.githubusercontent.com/18147085/35695168-c3243520-07a9-11e8-8c06-ff9bc277d45d.jpg)
 
 ![screenshot_7](https://user-images.githubusercontent.com/18147085/35695169-c35ce6ea-07a9-11e8-88f5-9de6a1a561b4.jpg)
 
-#### 6. Add Facet `Web` and select Source Root
+#### 7. Add Facet `Web` and select Source Root
 ![screenshot_9](https://user-images.githubusercontent.com/18147085/35695170-c3948ff0-07a9-11e8-880f-93ec32309df2.jpg)
 
 ![screenshot_10](https://user-images.githubusercontent.com/18147085/35695171-c3dbb704-07a9-11e8-8939-71359a42fa28.jpg)
 
-#### 7. Add Artifact `Web Exploded` From modules
+#### 8. Add Artifact `Web Exploded` From modules
 ![screenshot_11](https://user-images.githubusercontent.com/18147085/35695172-c42f94b4-07a9-11e8-82c5-e046e170ec9d.jpg)
 
 ![screenshot_12](https://user-images.githubusercontent.com/18147085/35695173-c46bc966-07a9-11e8-8bef-5cf1d5db7de5.jpg)
 
-#### 8. Compile and run `:)`
+#### 9. Compile and run `:)`
 ![screenshot_13](https://user-images.githubusercontent.com/18147085/35695174-c554db06-07a9-11e8-88f5-af43fe55873a.jpg)
 
